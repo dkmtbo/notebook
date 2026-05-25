@@ -49,5 +49,5 @@ The landing page updates automatically — the new page will appear in the list.
 
 | Page | Source file |
 |------|------------|
-| Bojanov Sto | `~/Desktop/CLAUDE/05_Book/bojanov_sto/today.html` |
+| Books - Daily Digest | `~/Desktop/CLAUDE/05_Book/bojanov_sto/today.html` |
 | Book Ideas Tracker | `~/Desktop/CLAUDE/05_Book/bojanov_sto/book-ideas.html` |
